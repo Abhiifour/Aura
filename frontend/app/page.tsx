@@ -14,7 +14,7 @@ export default function Home() {
       </div>
       
       <div className="relative z-10">
-        <div className="text-[52px] font-Poppins font-bold text-transparent bg-clip-text bg-gradient-to-r tracking-tight from-violet-200 to-white">
+        <div className="text-[56px] font-Poppins font-bold text-transparent bg-clip-text bg-gradient-to-r tracking-tight from-violet-200 to-white">
           Tune Your Mood, AI Does the Rest!
         </div>
         <div className="py-4 text-white flex items-center text-[18px] font-Poppins">

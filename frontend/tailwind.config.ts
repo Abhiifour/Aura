@@ -13,7 +13,8 @@ export default {
         foreground: "var(--foreground)",
       },
       fontFamily:{
-        "Poppins":'Poppins'
+        "Poppins":'Poppins',
+        "Cedarville-Cursive":"Cedarville Cursive"
       }
     },
   },
